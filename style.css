@@ -1,0 +1,11 @@
+@import "reset.css";
+/* components */
+@import "components/test.css";
+
+/* screen */
+@import "screens/indexViewFrame.css";
+
+@import "index.css";
+body {
+  font-family: "Oswald", sans-serif;
+}

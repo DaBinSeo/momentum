@@ -1,0 +1,62 @@
+#body-display {
+  /* height: 100vh; */
+  height: 200vh;
+  position: relative;
+}
+
+#top-display {
+  display: flex;
+  height: 50%;
+}
+
+#lt-top-display,
+#rt-top-display {
+  width: 50%;
+}
+
+#rt-top-display div {
+  height: 25%;
+}
+
+#mid-display,
+#btm-display {
+  height: 25%;
+}
+#mid-display div {
+  height: 100%;
+}
+#first-btm-display,
+#second-btm-display {
+  height: 50%;
+}
+
+#lt-top-display {
+  background-color: darkorange;
+}
+#rt-top-display {
+  background-color: darkorchid;
+}
+#mid-display {
+  background-color: darkred;
+}
+#first-btm-display {
+  background-color: darksalmon;
+}
+#second-btm-display {
+  background-color: darkseagreen;
+}
+
+#first-column {
+  background-color: deeppink;
+}
+
+#second-column {
+  background-color: deepskyblue;
+}
+
+#third-column {
+  background-color: forestgreen;
+}
+#forth-column {
+  background-color: gray;
+}

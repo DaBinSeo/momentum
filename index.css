@@ -1,0 +1,23 @@
+#title-logo {
+  display: flex;
+}
+#title-logo img {
+  height: 100px;
+  width: 100px;
+}
+#title-logo span {
+  font-size: 80px;
+  font-weight: 600;
+}
+
+#sticky-memo {
+  top: 500px;
+  position: absolute;
+  position: fixed;
+}
+#sticky-memo div {
+  height: 200px;
+  width: 150px;
+  background-color: white;
+  border-radius: 10px;
+}
